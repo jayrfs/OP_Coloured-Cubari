@@ -4,5 +4,31 @@
   "artist": "Eichiro Oda / Ice D Cream (Colour)",
   "author": "Eichiro Oda",
   "cover": "https://iili.io/H8Bzcsj.md.png",
-  "chapters": {}
+  "chapters": {
+    "1080": {
+      "title": "1080",
+      "volume": "",
+      "last_updated": "1682269898",
+      "groups": {
+        "": [
+          "https://i.redd.it/4xk6xm9zp8ta1.png",
+          "https://i.redd.it/1js3w9szp8ta1.png",
+          "https://i.redd.it/apktz910q8ta1.png",
+          "https://i.redd.it/n090bc70q8ta1.png",
+          "https://i.redd.it/mx42sms0q8ta1.png",
+          "https://i.redd.it/szydyty0q8ta1.png",
+          "https://i.redd.it/johtxn81q8ta1.png",
+          "https://i.redd.it/5b73b1m1q8ta1.png",
+          "https://i.redd.it/q2r4utw1q8ta1.png",
+          "https://i.redd.it/qgtc7252q8ta1.png",
+          "https://i.redd.it/znxzpmd2q8ta1.png",
+          "https://i.redd.it/uazg0hm2q8ta1.png",
+          "https://i.redd.it/yd76amw2q8ta1.png",
+          "https://i.redd.it/n2elca53q8ta1.png",
+          "https://i.redd.it/t4i317e3q8ta1.png",
+          "https://i.redd.it/stlajgp3q8ta1.png"
+        ]
+      }
+    }
+  }
 }
